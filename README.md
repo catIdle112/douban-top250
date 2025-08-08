@@ -1,8 +1,5 @@
-# douban-top250
-## 功能
-一键抓取豆瓣电影 Top250 的全部电影名称并保存为 CSV。
-
-## 运行
-```bash
-pip install -r requirements.txt
-python douban_top250.py
+# 豆瓣电影 Top250 数据抓取服务
+- 抓取内容：排名 + 电影名称  
+- 交付格式：CSV / Excel  
+- 数据量：250 条完整版  
+- 获取方式：微信wxid_w7t6g8g7mysr22
